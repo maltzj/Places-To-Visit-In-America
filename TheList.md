@@ -1,7 +1,23 @@
+Alabama
+=======
+
+* Birmingham
+
+Alaska
+======
+
+* Point Barrow (Northern most point in the USA)
+* Adak (westernmost incorporated town, the westernmost point is uninhabited)
+
 Arizona
 =======
 
 * Grand Canyon
+
+Arkansas
+========
+
+????
 
 California
 ===========
@@ -12,6 +28,16 @@ California
 * Yosemite
 * San Diego (SDCC?)
 * Joshua Tree
+
+Colorado
+========
+
+???
+
+Connecticut
+===========
+
+?????
 
 Delaware
 ========
@@ -24,6 +50,25 @@ Florida
 
 * Miami
 * Disney World
+* Ballast Key (Southern Most Point)
+
+Georgia
+=======
+
+* Atlanta
+
+Hawaii
+======
+
+* Chillax on a beach
+* See a volcano
+* Ka lae (Southernmost point)
+
+Idaho
+=====
+
+* Cour d'alene
+* Boise (football stadium)
 
 Illinois
 ========
@@ -41,6 +86,12 @@ Iowa
 
 * Giant pitchfork in De Moines
 
+Kansas
+======
+
+* Kansas City
+* Jayhawks basketball game
+
 Kentucky
 ========
 
@@ -52,6 +103,18 @@ Louisiana
 
 * New Orleans
 
+Maine
+=====
+
+* Sail Rock (Eastern Most point in the USA)
+* Eat some lobster
+
+Maryland
+========
+
+* Preakness
+* Baltimore
+
 Massachusettes
 ==============
 
@@ -62,11 +125,26 @@ Michigan
 
 * Detroit
 
+Minnesota
+=========
+
+* Northwest Angle (Northern most point in continental USA)
+
+Mississipi
+==========
+
+???
+
 Missouri
 ========
 
 * St. Louis
 * Kansas City
+
+Montana
+=======
+
+* Glacier National Park
 
 Nebraska
 =========
@@ -74,6 +152,11 @@ Nebraska
 * College World Series
 * US Swimming olympic qualifiers
 * Carhenge
+
+New Hampshire
+=============
+
+* Fort Ticonderoga
 
 New Jersey
 ==========
@@ -106,11 +189,26 @@ North Dakota
 * Bismarck
 * Abraham Lincoln State Park
 
+North Carolina
+==============
+
+* UNC vs Duke Basketball Game
+
+South Carolina
+==============
+
+* Ft. Sumter
+
 Ohio
 ====
 
 * Columbus (during Comfest)
 * Cincinatti
+
+Oklahoma
+========
+
+???
 
 Oregon
 ======
@@ -126,6 +224,11 @@ Pennsylvania
 * Pittsburgh
 * FallingWater
 
+Rhode Island
+============
+
+???
+
 South Dakota
 ============
 
@@ -140,6 +243,12 @@ Tennessee
 * Go zorbing
 * Nashville
 
+Texas
+=====
+
+* Austin
+* SXSW
+
 Utah
 ====
 
@@ -150,18 +259,23 @@ Vermont
 
 * Go skiing (somewhere??)
 
+Virginia
+========
+
+???
+
 Washington
 ==========
 
 * Seattle
 * Mount Raineir
+* Bodelteh Islands (western most point in the continental USA)
 
 West Virginia
 =============
 
 * Raft the Gauley
 * Bridge Day
-
 
 Wyoming
 =======
@@ -173,4 +287,4 @@ Wyoming
 Wisconsin
 =========
 
-?????
+* Madison
