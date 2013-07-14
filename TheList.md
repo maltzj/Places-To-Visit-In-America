@@ -51,11 +51,13 @@ Florida
 * Miami
 * Disney World
 * Ballast Key (Southern Most Point)
+* St. Augustine (oldest City in the USA)
 
 Georgia
 =======
 
 * Atlanta
+* Savannah
 
 Hawaii
 ======
@@ -153,6 +155,13 @@ Nebraska
 * US Swimming olympic qualifiers
 * Carhenge
 
+Nevada
+======
+
+* Lake Tahoe
+* Las Vegas
+
+
 New Hampshire
 =============
 
@@ -169,10 +178,6 @@ New York
 * New York City
 * Belmont Stakes
 
-Nevada
-======
-
-* Las Vegas
 
 New Mexico
 ==========
@@ -182,6 +187,8 @@ New Mexico
 * Carlsbad Caverns
 * Santa Fe
 * Albuquerque
+** Hot Air Balloon Festival
+** Tinkertown museum
 
 North Dakota
 ============
@@ -198,6 +205,7 @@ South Carolina
 ==============
 
 * Ft. Sumter
+* Charleston
 
 Ohio
 ====
@@ -253,6 +261,7 @@ Utah
 ====
 
 * Mount Zion
+* Arches
 
 Vermont
 ======
