@@ -186,9 +186,11 @@ New Mexico
 * White Sands National Monument
 * Carlsbad Caverns
 * Santa Fe
-* Albuquerque
-** Hot Air Balloon Festival
-** Tinkertown museum
+
+Albuquerque
+-----------
+* Hot Air Balloon Festival
+* Tinkertown museum
 
 North Dakota
 ============
