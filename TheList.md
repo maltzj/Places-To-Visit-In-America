@@ -19,6 +19,12 @@ Delaware
 * Nemours Mansion
 * Mt. Cuba Horticultural center
 
+Florida
+=======
+
+* Miami
+* Disney World
+
 Illinois
 ========
 
