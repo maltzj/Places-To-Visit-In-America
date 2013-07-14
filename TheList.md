@@ -80,6 +80,12 @@ New Jersey
 
 Lived here for four years and I can't figure out much
 
+New York
+========
+
+* New York City
+* Belmont Stakes
+
 Nevada
 ======
 
