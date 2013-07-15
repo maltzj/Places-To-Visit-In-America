@@ -265,7 +265,7 @@ Utah
 * Mount Zion
 * Arches
 * Park City
-* Yellowstone National Park
+* Great Salt Lake
 
 Vermont
 ======
