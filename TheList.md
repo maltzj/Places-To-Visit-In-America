@@ -43,7 +43,7 @@ Delaware
 ========
 
 * Nemours Mansion
-* Mt. Cuba Horticultural center
+* Pumpkin Chunkin
 
 Florida
 =======
