@@ -264,6 +264,8 @@ Utah
 
 * Mount Zion
 * Arches
+* Park City
+* Great Salt Lake
 
 Vermont
 ======
