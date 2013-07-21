@@ -171,6 +171,7 @@ Nevada
 
 * Lake Tahoe
 * Las Vegas
+* Burning man
 
 
 New Hampshire
@@ -315,3 +316,4 @@ Wisconsin
 =========
 
 * Madison
+* Eat some cheese curds
