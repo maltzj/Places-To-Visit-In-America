@@ -244,7 +244,6 @@ Pennsylvania
 * Philadelphia
   * Magic Gardens on South St.
   * Cheesesteaks
-  * Penn Basketball at the Palestra
 * Little League World Series
 * Pittsburgh
 * FallingWater
@@ -280,6 +279,7 @@ Utah
 
 * Mount Zion
 * Arches
+* Bryce Canyon
 * Salt Lake City
 
 Vermont
@@ -308,6 +308,7 @@ West Virginia
 Wyoming
 =======
 
+* Devils Tower
 * Rodeo at Cody
 * Tetons National Park
 * Yellowstone national park
