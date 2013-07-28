@@ -32,8 +32,9 @@ California
 Colorado
 ========
 
-* Maroon Lake (Aspen-ish area)
+* Maroon Lake 
 * Vail, CO
+* Mesa Verde
 
 
 Connecticut
@@ -83,7 +84,7 @@ Illinois
   * Pequod's Pizza (Best deep dish in Chicago)
   * First Uno's Pizzeria
   * Willis Tower
-  * Frank Loyd Wright House (Part of the Architecture tour of Chicago - which is dope)
+  * Frank Loyd Wright House 
 
 Indiana
 =======
@@ -145,8 +146,8 @@ Minnesota
 Mississipi
 ==========
 
-* Mississippi River
-* Windsor Ruins (largest plantation house in Mississippi)
+* Mouth of the Mississippi River
+* Windsor Ruins
 
 Missouri
 ========
